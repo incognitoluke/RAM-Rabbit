@@ -2,5 +2,4 @@
 
 [Tutorial](https://youtu.be/IVg8Jg0JhoU)
 
-This is a simple project that uses only the itertools package in order to get the various permutations for each character. 
-
+Get the most recent and historical COVID-19 Data using the following method.
